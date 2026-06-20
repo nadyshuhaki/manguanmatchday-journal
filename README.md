@@ -1,2 +1,14 @@
 # manguanmatchday-journal
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
